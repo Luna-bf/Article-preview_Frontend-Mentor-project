@@ -71,24 +71,11 @@ section {
     align-items: center;
 }
 
-.img-div {
-    padding: 0;
-    margin: 0;
-}
-
 .img-div>img {
     border-radius: 20px 0 0 20px;
     width: 100%;
     vertical-align: middle;
 }
-
-/* .img-div {
-    background-image: url('../article-preview-component-master/article-preview-component-master/images/drawers.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 150px;
-} */
 
 
 /* TEXT AND PROFILE */
